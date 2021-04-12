@@ -7,7 +7,6 @@ Sistema de Vendas - Desafio LinearSistemas
 
 <p align="center">
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#beginner-iniciando-a-aplicação">Iniciando a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#EstruturaDB">Estrutura de Banco de dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
@@ -28,17 +27,7 @@ Seguem as configurações necessárias para visualizar a aplicação em sua máq
 ```bash
 Regsvr32 randcontrls.ocx
 ```
-### :beginner: Iniciando a aplicação
-1. Abra a aplicação no ambiente de desenvolvimento VB6.
-```bash
-# Após carregar corretamente, pressione F5
-```
-2. Na tela de login informe.
-```bash
-# Usuario: admin
-Senha: $enhaAdmin
-```
-3. Maiores informações de regras, consulte: </br>
+- Maiores informações de regras, consulte: </br>
 https://github.com/acessolinear/analista-desenvolvedor/blob/main/README.md
 
 ### <h3 id="EstruturaDB">🎲 Estrutura de banco de dados</h3>

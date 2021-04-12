@@ -1,0 +1,15 @@
+frmLogin = 52, 52, 838, 430, C, 26, 26, 812, 404, C
+modBancoDados = 156, 156, 942, 534, 
+modVariaveisGlobais = 182, 182, 968, 560, 
+clsUsuario = 0, 0, 802, 394, 
+IPessoa = 156, 156, 958, 528, 
+clsPessoa = 182, 182, 984, 554, 
+modUtil = 0, 0, 802, 372, 
+frmPrincipal = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmProduto = 0, 0, 0, 0, C, 156, 156, 875, 538, C
+clsProduto = 26, 26, 745, 408, 
+frmPedido = 26, 26, 735, 398, Z, 0, 0, 709, 372, C
+clsPedido = 0, 0, 719, 382, 
+frmCliente = 0, 0, 0, 0, C, 130, 130, 849, 512, C
+clsPedidoItens = 130, 130, 849, 512, 
+clsCliente = 0, 0, 0, 0, C

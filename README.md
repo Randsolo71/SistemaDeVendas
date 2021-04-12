@@ -8,7 +8,7 @@ Sistema de Vendas - Desafio LinearSistemas
 <p align="center">
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#beginner-iniciando-a-aplicação">Iniciando a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#estruturaBd">Estrutura de Banco de dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#EstruturaDB">Estrutura de Banco de dados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
 
@@ -28,7 +28,6 @@ Seguem as configurações necessárias para visualizar a aplicação em sua máq
 ```bash
 Regsvr32 randcontrls.ocx
 ```
-
 ### :beginner: Iniciando a aplicação
 1. Abra a aplicação no ambiente de desenvolvimento VB6.
 ```bash
@@ -42,7 +41,7 @@ Senha: $enhaAdmin
 3. Maiores informações de regras, consulte: </br>
 https://github.com/acessolinear/analista-desenvolvedor/blob/main/README.md
 
-### 🎲 Estrutura de banco de dados
+### <h3 id="EstruturaDB">🎲 Estrutura de banco de dados</h3>
 1. Foi Utilizado o MySQL 5.7 e ODBC SQL 8.0 32Bits
 2. Nome do Squema: VendasLinear
 

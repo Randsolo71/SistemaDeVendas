@@ -14,10 +14,29 @@ Sistema de Vendas - Desafio LinearSistemas
 ### Funcionalidades
 
 - Criar uma tela de login;
+```bash
+ RN1: Não deve permitir logar com um usuário que não esteja cadastrado no banco de dados.
+```
 - Criar uma tela principal MDI com menus;
+```bash
+ RN1: Deve-se apresentar no formulário, a data corrente de login e o nome do usuário logado. Sugerimos no rodapé, conforme mockup da tela.
+```
 - Criar um formulário para cadastro de Cliente;
+```bash
+ RN1: Não permitir excluir um cliente que esteja referenciado em uma venda. 
+ RN2: Não permitir gravar um cliente sem o valor de limite de crédito, ou limite 0.
+```
 - Criar um formulário para cadastro de Produtos;
+```bash
+ RN1: Não permitir gravar produtos sem o código, ou com código zerado.
+ RN2: Não permitir gravar produtos sem o preço, ou com preço zerado.
+```
 - Criar um formulário para cadastro de Pedidos e seus itens;
+```bash
+ RN1: Não permitir gravar pedido para clientes cujo o valor do limite, ultrapasse o do cadastro de cliente.
+ RN2: Ao gravar um pedido, deve-se abater o valor total do pedido, do limite de crédito do cliente.
+ RN3: Não permitir inserção de produtos com preço de venda zerados.
+```
 
 ### :heavy_check_mark: Configurações necessárias
 

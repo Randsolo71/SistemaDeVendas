@@ -44,7 +44,7 @@ Seguem as configurações necessárias para visualizar a aplicação em sua máq
 
 -  Necessário registrar a OCX RandControls.ocx na pasta c:\Windows\Syswow64, através do prompt de comando em modo administrador:
 ```bash
-Regsvr32 randcontrls.ocx
+Regsvr32 randcontrols.ocx
 ```
 - Maiores informações de regras, consulte: </br>
 https://github.com/acessolinear/analista-desenvolvedor/blob/main/README.md
